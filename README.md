@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bradley Brazis</h1>
-<h3 align="center">A Frontend Developer and Webflow expert</h3>
+<h3 align="center">Frontend Developer and Webflow expert</h3>
 
 - 🌱 I’m currently learning **Frontend Development via Scrimba**
 
