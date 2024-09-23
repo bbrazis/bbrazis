@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bradley Brazis</h1>
 <h3 align="center">Frontend Developer and Webflow expert</h3>
 
-- 🌱 I’m currently learning **Frontend Development via Scrimba**
+- 🌱 I’m currently learning **Front-End Development via Scrimba**
 
 - 👨‍💻 All of my projects are available at [https://www.bbrazis.com](https://www.bbrazis.com)
 
