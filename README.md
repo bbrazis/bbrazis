@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-End Development via Scrimba**
 
-- 👨‍💻 All of my projects are available at [https://www.bbrazis.com](https://www.bbrazis.com)
+- 👨‍💻 You can visit my portfolio at [https://www.bbrazis.com](https://www.bbrazis.com)
 
 - 📫 How to reach me **bradley@bbrazis.com**
 
